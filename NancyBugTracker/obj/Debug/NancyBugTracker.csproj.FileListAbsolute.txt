@@ -1,0 +1,12 @@
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\obj\Debug\NancyBugTracker.csprojResolveAssemblyReference.cache
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\bin\NancyBugTracker.dll
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\bin\NancyBugTracker.pdb
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\bin\Microsoft.Owin.dll
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\bin\Nancy.dll
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\bin\Nancy.Owin.dll
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\bin\Owin.dll
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\bin\Microsoft.Owin.xml
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\obj\Debug\NancyBugTracker.dll
+c:\users\jorge.reyero\documents\visual studio 2012\Projects\NancyBugTracker\NancyBugTracker\obj\Debug\NancyBugTracker.pdb
